@@ -1,1 +1,1 @@
-Holberton, Francisco Cilintano. Project: C - Functions, nested loops
+Holberton, Francisco Cilintano. Project: C - Functions, nested loops.
