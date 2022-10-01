@@ -8,9 +8,7 @@
 
 int main(void)
 {
-	char test = 'a';
-
-	_putchar(test);
+	_putchar('a');
 
 	return (0);
 }
