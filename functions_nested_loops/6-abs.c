@@ -3,7 +3,7 @@
 /**
  * _abs - Computes the absolute value of an integer
  *
- * @i Integer to be checked
+ * @i: Integer to be checked
  *
  * Return: The absolute value of i
  */
