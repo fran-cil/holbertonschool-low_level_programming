@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 
 /**
  * main - Fizz-Buzz test
@@ -25,10 +25,12 @@ int main(void)
 		}
 		else
 		{
-			printf(" % i", i);
+			printf("%d", i);
 		}
 		if (i < 100)
+		{
 			printf(" ");
+		}
 	}
 	printf("\n");
 	return (0);
