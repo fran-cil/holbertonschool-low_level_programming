@@ -14,7 +14,7 @@ char *string_toupper(char *lowtoupp)
 	{
 		if (lowtoupp[i] >= 'a' && lowtoupp[i] <= 'z')
 		{
-			lowtoupp[i] = lowtoupp[i] -32;
+			lowtoupp[i] = lowtoupp[i] - 32;
 		}
 	}
 	return (lowtoupp);
