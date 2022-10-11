@@ -4,6 +4,7 @@
  * *_strncpy - Copies a string
  * @dest: String
  * @src: String
+ * @n: int
  * Return: char
  */
 
